@@ -1,5 +1,5 @@
 # wingB_Korean-Split-keyboard
-![IMG_2215](https://user-images.githubusercontent.com/91782246/135711975-8134fab2-50bc-48d0-aa62-61ce848c11f0.JPG)
+![IMG_2215](https://user-images.githubusercontent.com/91782246/135714224-32667858-1275-41bc-b0fe-18ebc63cbfb1.JPG)
 
 |준비물|설명|
 |-----|-----|

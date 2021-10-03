@@ -22,6 +22,8 @@
 |글루건 or 본드|
 |미끄럼 방지 패드 or 범퍼|저는 10파이 제품 사용했습니다|https://smartstore.naver.com/mg9000/products/3289975643|
 
+재료는 디바이스마트나 엘레파츠에서 구매가능합니다
+
 ![pro_micro_pinout](https://user-images.githubusercontent.com/91782246/135756721-60a5d858-9b95-4c4b-9dd7-ec2c003c7c5b.jpeg)
 <img width="760" alt="스크린샷 2021-10-03 오후 11 45 57" src="https://user-images.githubusercontent.com/91782246/135759269-02622c39-c137-460a-a383-7207bb6ccf55.png">
 <img width="760" alt="스크린샷 2021-10-03 오후 11 46 15" src="https://user-images.githubusercontent.com/91782246/135759166-3477190b-27c7-4b23-b5fb-ae4a79b77463.png">

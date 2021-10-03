@@ -13,7 +13,6 @@
 |다이오드(1N4148) 64개|
 |M3 접시머리 머신스크류 10mm (볼트) 14개|
 |M3 인서트 너트 14개|
-|랩핑케이블|
 |하네스 케이블 10핀 or 12핀 2개|
 |스위치 64개|게이트론, 카일, 체리 등등|
 |키캡 64개|DSA 무각 104키 추천|
@@ -35,7 +34,6 @@ https://github.com/qmk/qmk_toolbox/releases
 <img width="603" alt="스크린샷 2021-10-03 오후 11 48 50" src="https://user-images.githubusercontent.com/91782246/135759217-e21f7cad-a057-4379-89e5-12238ecb0e04.png">
 
 아두이노 RST, GND 연결
-<img width="652" alt="스크린샷 2021-10-03 오후 11 51 31" src="https://user-images.githubusercontent.com/91782246/135759350-a31b7c68-f595-46f6-acbc-21094c84a8ce.png">
 노란색 Connect표시가 뜨면 Flash 클릭
 
 ##상업적 이용 금지합니다!

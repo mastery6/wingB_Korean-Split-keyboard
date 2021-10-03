@@ -22,7 +22,7 @@
 #define MATRIX_ROW_PINS { F6, F7, B1, B3, B2, B6}
 
 #define DIODE_DIRECTION COL2ROW
-#define SOFT_SERIAL_PIN D1
+#define SOFT_SERIAL_PIN D0
 
 // WS2812 RGB LED strip input and number of LEDs
 // #define RGB_DI_PIN D3

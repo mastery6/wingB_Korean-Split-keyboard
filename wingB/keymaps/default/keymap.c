@@ -17,7 +17,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      MO(_LOWER), KC_A  , KC_S  , KC_D  , KC_F  , KC_G  ,                         KC_H  , KC_J  , KC_K  , KC_L   , KC_SCLN ,KC_QUOT,
      KC_LSFT ,   KC_Z  , KC_X  , KC_C  , KC_V  , KC_B  ,                         KC_B  , KC_N  , KC_M  , KC_COMM, KC_DOT  ,KC_SLSH,
      KC_ESC ,    KC_LCTL , KC_CAPS , KC_LOPT, KC_LCMD,KC_SPC,                  KC_SPC , KC_RCMD , KC_LEFT ,KC_DOWN ,KC_UP ,KC_RGHT ,
-                                      KC_MUTE , KC_ENT, KC_BSPC,                 KC_BSPC, KC_ENT, KC_MUTE
+                                              KC_ENT, KC_BSPC,                 KC_BSPC, KC_ENT
   ),
   [_LOWER] = LAYOUT(
      KC_F1 , KC_F2 ,  KC_F3  , KC_F4 , KC_F5 , KC_F6 ,                      KC_F7,   KC_F8 , KC_F9 , KC_F10 ,KC_F11 ,KC_F12 ,
@@ -25,18 +25,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      _______,KC_LEFT,KC_DOWN,KC_RGHT,KC_LCBR,KC_LPRN,                        KC_RPRN, KC_RCBR  , KC_4  , KC_5   ,KC_6   ,KC_PLUS,
      _______,KC_HOME,KC_PGUP,KC_PGDN,KC_END ,KC_LPRN,                        KC_RPRN, KC_1  , KC_1  , KC_2   ,KC_3   ,KC_PIPE,
      _______,_______,_______,_______,_______,_______,                        KC_0,    KC_0  , KC_P2 , KC_P3  ,KC_EQL ,KC_UNDS,
-                            _______,KC_PSCR, _______,                       _______, KC_P0, _______
+                                    KC_PSCR, _______,                       _______, KC_P0
 
   )
 };
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 	return true;
-}
-bool encoder_update_user(uint8_t index, bool clockwise) {
-    if (clockwise) {
-      tap_code(KC_VOLD);
-    } else {
-      tap_code(KC_VOLU);
-    }
-    return true;
 }

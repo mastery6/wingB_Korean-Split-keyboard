@@ -5,19 +5,19 @@
 
 |준비물|설명|링크
 |-----|-----|-----|
-|3D 프린팅 출력 케이스||https://www.makeall.com/reservation/map.php|
+|3D 프린팅 출력 케이스|메이커스페이스➡️|https://www.makeall.com/reservation/map.php|
 |아두이노 프로 마이크로 2개|납땜 된거 추천|https://smartstore.naver.com/codingbird/products/4964838948|
 |5핀 to USB|집에 하나쯤은 있으시죠..?|
 |PJ325(오디오 커넥터) 2개|다른 TRS or TRRS 커넥터 호환가능|https://www.devicemart.co.kr/goods/view?no=2679|
 |3.5mm aux 케이블|1m 이상 추천|
-|다이오드(1N4148) 64개|
-|M3 접시머리 머신스크류 10mm (볼트) 14개|
+|다이오드(1N4148) 64개||https://www.devicemart.co.kr/goods/view?no=25|
+|M3 접시머리 머신스크류 10mm (볼트) 14개||https://www.devicemart.co.kr/goods/view?no=34782|
 |M3 인서트 너트 14개||https://www.devicemart.co.kr/goods/view?no=1067969|
-|하네스 케이블 10핀 or 12핀 2개|위쪽 두개는 사용하지 않아 10핀도 가능합니다|https://www.devicemart.co.kr/goods/view?no=10894393
+|하네스 케이블 10핀 or 12핀 2개|위쪽 두개는 사용하지 않아 10핀도 가능합니다|https://www.devicemart.co.kr/goods/view?no=10894393|
 |스위치 64개|게이트론, 카일, 체리 등등|
 |키캡 64개|DSA 무각 104키 추천|
 |카일 핫스왑 소켓 64개 (선택)|핫스왑 하실 분들만|
-|전선|랩핑와이어 추천|
+|전선|랩핑와이어 추천(인두기로 녹여서 사용가능)|https://www.devicemart.co.kr/goods/view?no=1274107|
 |납땜 재료|인두기, 납, 인두기 스탠드 등등|
 |글루건 or 본드|
 |미끄럼 방지 패드 or 범퍼|저는 10파이 제품 사용했습니다|https://smartstore.naver.com/mg9000/products/3289975643|

@@ -23,6 +23,8 @@
 |글루건 or 본드|
 |미끄럼 방지 패드 or 범퍼 10개|
 
+![pro_micro_pinout](https://user-images.githubusercontent.com/91782246/135756721-60a5d858-9b95-4c4b-9dd7-ec2c003c7c5b.jpeg)
+
 
 QMK 키코드
 https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes

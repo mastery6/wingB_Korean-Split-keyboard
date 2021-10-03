@@ -1,10 +1,12 @@
 # wingB_Korean-Split-keyboard
 ![IMG_2215](https://user-images.githubusercontent.com/91782246/135714224-32667858-1275-41bc-b0fe-18ebc63cbfb1.JPG)
 
-|준비물|설명|
-|-----|-----|
-|3D 프린팅 출력 케이스|
-|아두이노 프로 마이크로 2개|납땜 된거 추천|
+#시간나는대로 계속 작성하겠습니다..!
+
+|준비물|설명|링크
+|-----|-----|-----|
+|3D 프린팅 출력 케이스||https://www.makeall.com/reservation/map.php|
+|아두이노 프로 마이크로 2개|납땜 된거 추천|https://smartstore.naver.com/codingbird/products/4964838948|
 |5핀 to USB|집에 하나쯤은 있으시죠..?|
 |PJ325(오디오 커넥터) 2개|다른 TRS or TRRS 커넥터 호환가능|
 |3.5mm aux 케이블|1m 이상 추천|
@@ -22,11 +24,16 @@
 |미끄럼 방지 패드 or 범퍼 10개|
 
 
+QMK 키코드
+https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes
 
+QMK Toolbox
+https://github.com/qmk/qmk_toolbox/releases
 
+아두이노 RST, GND 연결
+노란색 Connect표시가 뜨면 Flash 클릭
 
-
-
+#상업적 이용 금지합니다!
  
 
 

@@ -1,4 +1,4 @@
-# wingB_Korean-Split-keyboard
+# WingB_Korean-Split-keyboard
 ![IMG_2215](https://user-images.githubusercontent.com/91782246/135714224-32667858-1275-41bc-b0fe-18ebc63cbfb1.JPG)
 
 #시간나는대로 계속 작성하겠습니다..!
@@ -24,18 +24,21 @@
 |미끄럼 방지 패드 or 범퍼 10개|
 
 ![pro_micro_pinout](https://user-images.githubusercontent.com/91782246/135756721-60a5d858-9b95-4c4b-9dd7-ec2c003c7c5b.jpeg)
-
+<img width="760" alt="스크린샷 2021-10-03 오후 11 45 57" src="https://user-images.githubusercontent.com/91782246/135759269-02622c39-c137-460a-a383-7207bb6ccf55.png">
+<img width="760" alt="스크린샷 2021-10-03 오후 11 46 15" src="https://user-images.githubusercontent.com/91782246/135759166-3477190b-27c7-4b23-b5fb-ae4a79b77463.png">
 
 QMK 키코드
 https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes
 
 QMK Toolbox
 https://github.com/qmk/qmk_toolbox/releases
+<img width="603" alt="스크린샷 2021-10-03 오후 11 48 50" src="https://user-images.githubusercontent.com/91782246/135759217-e21f7cad-a057-4379-89e5-12238ecb0e04.png">
 
 아두이노 RST, GND 연결
+<img width="652" alt="스크린샷 2021-10-03 오후 11 51 31" src="https://user-images.githubusercontent.com/91782246/135759350-a31b7c68-f595-46f6-acbc-21094c84a8ce.png">
 노란색 Connect표시가 뜨면 Flash 클릭
 
-#상업적 이용 금지합니다!
+##상업적 이용 금지합니다!
  
 
 

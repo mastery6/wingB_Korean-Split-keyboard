@@ -47,8 +47,8 @@
 
 QMK 키코드
 https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes
-![image](https://user-images.githubusercontent.com/91782246/136012438-bf4c535d-8bc3-44e0-bc8c-5259d1e26dd9.png)
-
+<img width="640" alt="스크린샷 2021-10-03 오후 11 46 15" src="https://user-images.githubusercontent.com/91782246/136012438-bf4c535d-8bc3-44e0-bc8c-5259d1e26dd9.png">
+<img width="640" alt="스크린샷 2021-10-03 오후 11 46 15" src="https://user-images.githubusercontent.com/91782246/136046077-958e0a14-57e7-42a5-8f9b-44fb3c5e1899.png">
     qmk compile -kb wingB -km default
 
 ## 6. Flash (아두이노에 코드 업로드)

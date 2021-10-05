@@ -44,12 +44,15 @@
 
 QMK 키코드
 https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes
-<img width="1024" alt="스크린샷 2021-10-04 오전 12 15 15" src="https://user-images.githubusercontent.com/91782246/135760368-82331cbc-c9db-4ff2-805b-884a25d4c7b7.png">
+![image](https://user-images.githubusercontent.com/91782246/136012438-bf4c535d-8bc3-44e0-bc8c-5259d1e26dd9.png)
 
 ## 6. Flash (아두이노에 코드 업로드)
 QMK Toolbox
 https://github.com/qmk/qmk_toolbox/releases
 <img width="603" alt="스크린샷 2021-10-03 오후 11 48 50" src="https://user-images.githubusercontent.com/91782246/135759217-e21f7cad-a057-4379-89e5-12238ecb0e04.png">
+
+104키 키보드 키캡 사이즈 
+![image](https://user-images.githubusercontent.com/91782246/136012741-ca210e9b-7bec-483a-ab08-23d6aace6667.png)
 
 아두이노 RST, GND 연결
 노란색 Connect표시가 뜨면 Flash 클릭

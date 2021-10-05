@@ -51,11 +51,11 @@ QMK Toolbox
 https://github.com/qmk/qmk_toolbox/releases
 <img width="603" alt="스크린샷 2021-10-03 오후 11 48 50" src="https://user-images.githubusercontent.com/91782246/135759217-e21f7cad-a057-4379-89e5-12238ecb0e04.png">
 
-104키 키보드 키캡 사이즈 
-![image](https://user-images.githubusercontent.com/91782246/136012741-ca210e9b-7bec-483a-ab08-23d6aace6667.png)
-
 아두이노 RST, GND 연결
 노란색 Connect표시가 뜨면 Flash 클릭
+
+104키 키보드 키캡 사이즈 
+![image](https://user-images.githubusercontent.com/91782246/136012741-ca210e9b-7bec-483a-ab08-23d6aace6667.png)
 
 ## 상업적 이용 금지합니다!
  

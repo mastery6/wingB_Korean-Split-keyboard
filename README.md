@@ -36,15 +36,20 @@
 
 ## 4. Pro micro - 스위치, TRRS 연결
 
-![pro_micro_pinout](https://user-images.githubusercontent.com/91782246/135756721-60a5d858-9b95-4c4b-9dd7-ec2c003c7c5b.jpeg)
-<img width="760" alt="스크린샷 2021-10-03 오후 11 45 57" src="https://user-images.githubusercontent.com/91782246/135759269-02622c39-c137-460a-a383-7207bb6ccf55.png">
-<img width="760" alt="스크린샷 2021-10-03 오후 11 46 15" src="https://user-images.githubusercontent.com/91782246/135759166-3477190b-27c7-4b23-b5fb-ae4a79b77463.png">
+<img width="640" alt="스크린샷 2021-10-03 오후 11 45 57" src="https://user-images.githubusercontent.com/91782246/135756721-60a5d858-9b95-4c4b-9dd7-ec2c003c7c5b.jpeg">
+<img width="640" alt="스크린샷 2021-10-03 오후 11 45 57" src="https://user-images.githubusercontent.com/91782246/135759269-02622c39-c137-460a-a383-7207bb6ccf55.png">
+<img width="640" alt="스크린샷 2021-10-03 오후 11 46 15" src="https://user-images.githubusercontent.com/91782246/135759166-3477190b-27c7-4b23-b5fb-ae4a79b77463.png">
+<img width="640" alt="스크린샷 2021-10-03 오후 11 46 15" src="https://user-images.githubusercontent.com/91782246/136039914-60de64c5-6e7b-4006-b7d5-0669afe59338.jpg">
+<img width="640" alt="스크린샷 2021-10-03 오후 11 46 15" src="https://user-images.githubusercontent.com/91782246/136039945-d9309f67-5a65-455d-b4f3-614370c2cac5.jpg">
+
 
 ## 5. 키맵핑
 
 QMK 키코드
 https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes
 ![image](https://user-images.githubusercontent.com/91782246/136012438-bf4c535d-8bc3-44e0-bc8c-5259d1e26dd9.png)
+
+    qmk compile -kb wingB -km default
 
 ## 6. Flash (아두이노에 코드 업로드)
 QMK Toolbox
@@ -57,6 +62,7 @@ https://github.com/qmk/qmk_toolbox/releases
 104키 키보드 키캡 사이즈 
 ![image](https://user-images.githubusercontent.com/91782246/136012741-ca210e9b-7bec-483a-ab08-23d6aace6667.png)
 
+star 한번씩 눌러주시면 감사드리겠습니다..ㅎ
 ## 상업적 이용 금지합니다!
  
 

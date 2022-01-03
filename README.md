@@ -1,7 +1,6 @@
 # WingB_Korean-Split-keyboard
 ![IMG_2215](https://user-images.githubusercontent.com/91782246/135714224-32667858-1275-41bc-b0fe-18ebc63cbfb1.JPG)
 
-## 시간나는대로 계속 작성하겠습니다..!
 
 |준비물|설명|링크
 |-----|-----|-----|

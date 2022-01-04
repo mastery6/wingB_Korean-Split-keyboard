@@ -12,7 +12,7 @@
 |다이오드(1N4148) 64개||https://www.devicemart.co.kr/goods/view?no=25|
 |M3 접시머리 머신스크류 10mm (볼트) 14개||https://www.devicemart.co.kr/goods/view?no=34782|
 |M3 인서트 너트 14개||https://www.devicemart.co.kr/goods/view?no=1067969|
-|하네스 케이블 10핀 or 12핀 2개|위쪽 두개는 사용하지 않아 10핀도 가능합니다|https://www.devicemart.co.kr/goods/view?no=10894393|
+|하네스 케이블 10핀 or 12핀 4개|위쪽 두개는 사용하지 않아 10핀도 가능합니다|https://www.devicemart.co.kr/goods/view?no=10894393|
 |스위치 64개|게이트론, 카일, 체리 등등|
 |키캡 64개|DSA 무각 104키 추천|
 |카일 핫스왑 소켓 64개 (선택)|핫스왑 하실 분들만|

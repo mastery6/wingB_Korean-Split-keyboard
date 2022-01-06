@@ -59,6 +59,7 @@ https://github.com/qmk/qmk_toolbox/releases
 아두이노 RST, GND 연결
 노란색 Connect표시가 뜨면 Flash 클릭
 
+## ETC
 104키 키보드 키캡 사이즈 
 ![image](https://user-images.githubusercontent.com/91782246/136012741-ca210e9b-7bec-483a-ab08-23d6aace6667.png)
 

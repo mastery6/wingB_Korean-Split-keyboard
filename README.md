@@ -64,6 +64,10 @@ https://github.com/qmk/qmk_toolbox/releases
 ![image](https://user-images.githubusercontent.com/91782246/136012741-ca210e9b-7bec-483a-ab08-23d6aace6667.png)
 
 star 한번씩 눌러주시면 감사드리겠습니다..ㅎ
+
+## 수정사항
+21.01.10 hexfile Trrs 2번에서 3번으로 수정
+
 ## 상업적 이용 금지합니다!
  
 
